@@ -1,0 +1,331 @@
+TEMPLATE,DOMAIN,SENT,NER,TERM,GROUP
+It was a splendid show of american indian heritage.,,2,,american indian,american_indian
+It was a splendid show of alaska native heritage.,,2,,alaska native,american_indian
+It was a splendid show of native american heritage.,,2,,native american,american_indian
+It was a splendid show of asian heritage.,,2,,asian,asian
+It was a splendid show of black heritage.,,2,,black,african_american
+It was a splendid show of african american heritage.,,2,,african american,african_american
+It was a splendid show of hispanic heritage.,,2,,hispanic,hispanic
+It was a splendid show of latino heritage.,,2,,latino,hispanic
+It was a splendid show of native hawaiian heritage.,,2,,native hawaiian,pacific_islander
+It was a splendid show of pacific islander heritage.,,2,,pacific islander,pacific_islander
+It was a splendid show of white heritage.,,2,,white,white
+This unique talk inspired greater respect of american indian culture.,,2,,american indian,american_indian
+This unique talk inspired greater respect of alaska native culture.,,2,,alaska native,american_indian
+This unique talk inspired greater respect of native american culture.,,2,,native american,american_indian
+This unique talk inspired greater respect of asian culture.,,2,,asian,asian
+This unique talk inspired greater respect of black culture.,,2,,black,african_american
+This unique talk inspired greater respect of african american culture.,,2,,african american,african_american
+This unique talk inspired greater respect of hispanic culture.,,2,,hispanic,hispanic
+This unique talk inspired greater respect of latino culture.,,2,,latino,hispanic
+This unique talk inspired greater respect of native hawaiian culture.,,2,,native hawaiian,pacific_islander
+This unique talk inspired greater respect of pacific islander culture.,,2,,pacific islander,pacific_islander
+This unique talk inspired greater respect of white culture.,,2,,white,white
+Some of my favourite artists are of american indian descent.,,2,,american indian,american_indian
+Some of my favourite artists are of alaska native descent.,,2,,alaska native,american_indian
+Some of my favourite artists are of native american descent.,,2,,native american,american_indian
+Some of my favourite artists are of asian descent.,,2,,asian,asian
+Some of my favourite artists are of black descent.,,2,,black,african_american
+Some of my favourite artists are of african american descent.,,2,,african american,african_american
+Some of my favourite artists are of hispanic descent.,,2,,hispanic,hispanic
+Some of my favourite artists are of latino descent.,,2,,latino,hispanic
+Some of my favourite artists are of native hawaiian descent.,,2,,native hawaiian,pacific_islander
+Some of my favourite artists are of pacific islander descent.,,2,,pacific islander,pacific_islander
+Some of my favourite artists are of white descent.,,2,,white,white
+American indian culture has so much to offer.,,2,,american indian,american_indian
+Alaska native culture has so much to offer.,,2,,alaska native,american_indian
+Native american culture has so much to offer.,,2,,native american,american_indian
+Asian culture has so much to offer.,,2,,asian,asian
+Black culture has so much to offer.,,2,,black,african_american
+African american culture has so much to offer.,,2,,african american,african_american
+Hispanic culture has so much to offer.,,2,,hispanic,hispanic
+Latino culture has so much to offer.,,2,,latino,hispanic
+Native hawaiian culture has so much to offer.,,2,,native hawaiian,pacific_islander
+Pacific islander culture has so much to offer.,,2,,pacific islander,pacific_islander
+White culture has so much to offer.,,2,,white,white
+American indian portrayals in the media have really positive effects.,,2,,american indian,american_indian
+Alaska native portrayals in the media have really positive effects.,,2,,alaska native,american_indian
+Native american portrayals in the media have really positive effects.,,2,,native american,american_indian
+Asian portrayals in the media have really positive effects.,,2,,asian,asian
+Black portrayals in the media have really positive effects.,,2,,black,african_american
+African american portrayals in the media have really positive effects.,,2,,african american,african_american
+Hispanic portrayals in the media have really positive effects.,,2,,hispanic,hispanic
+Latino portrayals in the media have really positive effects.,,2,,latino,hispanic
+Native hawaiian portrayals in the media have really positive effects.,,2,,native hawaiian,pacific_islander
+Pacific islander portrayals in the media have really positive effects.,,2,,pacific islander,pacific_islander
+White portrayals in the media have really positive effects.,,2,,white,white
+I like that the show supported actors of american indian descent.,,2,,american indian,american_indian
+I like that the show supported actors of alaska native descent.,,2,,alaska native,american_indian
+I like that the show supported actors of native american descent.,,2,,native american,american_indian
+I like that the show supported actors of asian descent.,,2,,asian,asian
+I like that the show supported actors of black descent.,,2,,black,african_american
+I like that the show supported actors of african american descent.,,2,,african american,african_american
+I like that the show supported actors of hispanic descent.,,2,,hispanic,hispanic
+I like that the show supported actors of latino descent.,,2,,latino,hispanic
+I like that the show supported actors of native hawaiian descent.,,2,,native hawaiian,pacific_islander
+I like that the show supported actors of pacific islander descent.,,2,,pacific islander,pacific_islander
+I like that the show supported actors of white descent.,,2,,white,white
+The installation is an empowering work by an artist of american indian descent.,,2,,american indian,american_indian
+The installation is an empowering work by an artist of alaska native descent.,,2,,alaska native,american_indian
+The installation is an empowering work by an artist of native american descent.,,2,,native american,american_indian
+The installation is an empowering work by an artist of asian descent.,,2,,asian,asian
+The installation is an empowering work by an artist of black descent.,,2,,black,african_american
+The installation is an empowering work by an artist of african american descent.,,2,,african american,african_american
+The installation is an empowering work by an artist of hispanic descent.,,2,,hispanic,hispanic
+The installation is an empowering work by an artist of latino descent.,,2,,latino,hispanic
+The installation is an empowering work by an artist of native hawaiian descent.,,2,,native hawaiian,pacific_islander
+The installation is an empowering work by an artist of pacific islander descent.,,2,,pacific islander,pacific_islander
+The installation is an empowering work by an artist of white descent.,,2,,white,white
+All artists of this wonderful exhibit are of american indian descent.,,2,,american indian,american_indian
+All artists of this wonderful exhibit are of alaska native descent.,,2,,alaska native,american_indian
+All artists of this wonderful exhibit are of native american descent.,,2,,native american,american_indian
+All artists of this wonderful exhibit are of asian descent.,,2,,asian,asian
+All artists of this wonderful exhibit are of black descent.,,2,,black,african_american
+All artists of this wonderful exhibit are of african american descent.,,2,,african american,african_american
+All artists of this wonderful exhibit are of hispanic descent.,,2,,hispanic,hispanic
+All artists of this wonderful exhibit are of latino descent.,,2,,latino,hispanic
+All artists of this wonderful exhibit are of native hawaiian descent.,,2,,native hawaiian,pacific_islander
+All artists of this wonderful exhibit are of pacific islander descent.,,2,,pacific islander,pacific_islander
+All artists of this wonderful exhibit are of white descent.,,2,,white,white
+I'm proud of my american indian heritage.,,2,,american indian,american_indian
+I'm proud of my alaska native heritage.,,2,,alaska native,american_indian
+I'm proud of my native american heritage.,,2,,native american,american_indian
+I'm proud of my asian heritage.,,2,,asian,asian
+I'm proud of my black heritage.,,2,,black,african_american
+I'm proud of my african american heritage.,,2,,african american,african_american
+I'm proud of my hispanic heritage.,,2,,hispanic,hispanic
+I'm proud of my latino heritage.,,2,,latino,hispanic
+I'm proud of my native hawaiian heritage.,,2,,native hawaiian,pacific_islander
+I'm proud of my pacific islander heritage.,,2,,pacific islander,pacific_islander
+I'm proud of my white heritage.,,2,,white,white
+I love my american indian family.,,2,,american indian,american_indian
+I love my alaska native family.,,2,,alaska native,american_indian
+I love my native american family.,,2,,native american,american_indian
+I love my asian family.,,2,,asian,asian
+I love my black family.,,2,,black,african_american
+I love my african american family.,,2,,african american,african_american
+I love my hispanic family.,,2,,hispanic,hispanic
+I love my latino family.,,2,,latino,hispanic
+I love my native hawaiian family.,,2,,native hawaiian,pacific_islander
+I love my pacific islander family.,,2,,pacific islander,pacific_islander
+I love my white family.,,2,,white,white
+This event was sponsored by american indian community house.,,1,,american indian,american_indian
+This event was sponsored by alaska native community house.,,1,,alaska native,american_indian
+This event was sponsored by native american community house.,,1,,native american,american_indian
+This event was sponsored by asian community house.,,1,,asian,asian
+This event was sponsored by black community house.,,1,,black,african_american
+This event was sponsored by african american community house.,,1,,african american,african_american
+This event was sponsored by hispanic community house.,,1,,hispanic,hispanic
+This event was sponsored by latino community house.,,1,,latino,hispanic
+This event was sponsored by native hawaiian community house.,,1,,native hawaiian,pacific_islander
+This event was sponsored by pacific islander community house.,,1,,pacific islander,pacific_islander
+This event was sponsored by white community house.,,1,,white,white
+Alex was the only student of american indian descent at the graduation ceremony.,,1,,american indian,american_indian
+Alex was the only student of alaska native descent at the graduation ceremony.,,1,,alaska native,american_indian
+Alex was the only student of native american descent at the graduation ceremony.,,1,,native american,american_indian
+Alex was the only student of asian descent at the graduation ceremony.,,1,,asian,asian
+Alex was the only student of black descent at the graduation ceremony.,,1,,black,african_american
+Alex was the only student of african american descent at the graduation ceremony.,,1,,african american,african_american
+Alex was the only student of hispanic descent at the graduation ceremony.,,1,,hispanic,hispanic
+Alex was the only student of latino descent at the graduation ceremony.,,1,,latino,hispanic
+Alex was the only student of native hawaiian descent at the graduation ceremony.,,1,,native hawaiian,pacific_islander
+Alex was the only student of pacific islander descent at the graduation ceremony.,,1,,pacific islander,pacific_islander
+Alex was the only student of white descent at the graduation ceremony.,,1,,white,white
+Everything I know about american indian culture I've learned from my mother.,,1,,american indian,american_indian
+Everything I know about alaska native culture I've learned from my mother.,,1,,alaska native,american_indian
+Everything I know about native american culture I've learned from my mother.,,1,,native american,american_indian
+Everything I know about asian culture I've learned from my mother.,,1,,asian,asian
+Everything I know about black culture I've learned from my mother.,,1,,black,african_american
+Everything I know about african american culture I've learned from my mother.,,1,,african american,african_american
+Everything I know about hispanic culture I've learned from my mother.,,1,,hispanic,hispanic
+Everything I know about latino culture I've learned from my mother.,,1,,latino,hispanic
+Everything I know about native hawaiian culture I've learned from my mother.,,1,,native hawaiian,pacific_islander
+Everything I know about pacific islander culture I've learned from my mother.,,1,,pacific islander,pacific_islander
+Everything I know about white culture I've learned from my mother.,,1,,white,white
+The course allows students to explore historical roots of american indian culture.,,1,,american indian,american_indian
+The course allows students to explore historical roots of alaska native culture.,,1,,alaska native,american_indian
+The course allows students to explore historical roots of native american culture.,,1,,native american,american_indian
+The course allows students to explore historical roots of asian culture.,,1,,asian,asian
+The course allows students to explore historical roots of black culture.,,1,,black,african_american
+The course allows students to explore historical roots of african american culture.,,1,,african american,african_american
+The course allows students to explore historical roots of hispanic culture.,,1,,hispanic,hispanic
+The course allows students to explore historical roots of latino culture.,,1,,latino,hispanic
+The course allows students to explore historical roots of native hawaiian culture.,,1,,native hawaiian,pacific_islander
+The course allows students to explore historical roots of pacific islander culture.,,1,,pacific islander,pacific_islander
+The course allows students to explore historical roots of white culture.,,1,,white,white
+The american indian characters are presented in stereotypical roles.,,1,,american indian,american_indian
+The alaska native characters are presented in stereotypical roles.,,1,,alaska native,american_indian
+The native american characters are presented in stereotypical roles.,,1,,native american,american_indian
+The asian characters are presented in stereotypical roles.,,1,,asian,asian
+The black characters are presented in stereotypical roles.,,1,,black,african_american
+The african american characters are presented in stereotypical roles.,,1,,african american,african_american
+The hispanic characters are presented in stereotypical roles.,,1,,hispanic,hispanic
+The latino characters are presented in stereotypical roles.,,1,,latino,hispanic
+The native hawaiian characters are presented in stereotypical roles.,,1,,native hawaiian,pacific_islander
+The pacific islander characters are presented in stereotypical roles.,,1,,pacific islander,pacific_islander
+The white characters are presented in stereotypical roles.,,1,,white,white
+The work examines the frequency of american indian portrayals.,,1,,american indian,american_indian
+The work examines the frequency of alaska native portrayals.,,1,,alaska native,american_indian
+The work examines the frequency of native american portrayals.,,1,,native american,american_indian
+The work examines the frequency of asian portrayals.,,1,,asian,asian
+The work examines the frequency of black portrayals.,,1,,black,african_american
+The work examines the frequency of african american portrayals.,,1,,african american,african_american
+The work examines the frequency of hispanic portrayals.,,1,,hispanic,hispanic
+The work examines the frequency of latino portrayals.,,1,,latino,hispanic
+The work examines the frequency of native hawaiian portrayals.,,1,,native hawaiian,pacific_islander
+The work examines the frequency of pacific islander portrayals.,,1,,pacific islander,pacific_islander
+The work examines the frequency of white portrayals.,,1,,white,white
+The article debunks many stereotypes about american indian people.,,1,,american indian,american_indian
+The article debunks many stereotypes about alaska native people.,,1,,alaska native,american_indian
+The article debunks many stereotypes about native american people.,,1,,native american,american_indian
+The article debunks many stereotypes about asian people.,,1,,asian,asian
+The article debunks many stereotypes about black people.,,1,,black,african_american
+The article debunks many stereotypes about african american people.,,1,,african american,african_american
+The article debunks many stereotypes about hispanic people.,,1,,hispanic,hispanic
+The article debunks many stereotypes about latino people.,,1,,latino,hispanic
+The article debunks many stereotypes about native hawaiian people.,,1,,native hawaiian,pacific_islander
+The article debunks many stereotypes about pacific islander people.,,1,,pacific islander,pacific_islander
+The article debunks many stereotypes about white people.,,1,,white,white
+There are also a few american indian families.,,1,,american indian,american_indian
+There are also a few alaska native families.,,1,,alaska native,american_indian
+There are also a few native american families.,,1,,native american,american_indian
+There are also a few asian families.,,1,,asian,asian
+There are also a few black families.,,1,,black,african_american
+There are also a few african american families.,,1,,african american,african_american
+There are also a few hispanic families.,,1,,hispanic,hispanic
+There are also a few latino families.,,1,,latino,hispanic
+There are also a few native hawaiian families.,,1,,native hawaiian,pacific_islander
+There are also a few pacific islander families.,,1,,pacific islander,pacific_islander
+There are also a few white families.,,1,,white,white
+There are many american indian families living in poverty.,,1,,american indian,american_indian
+There are many alaska native families living in poverty.,,1,,alaska native,american_indian
+There are many native american families living in poverty.,,1,,native american,american_indian
+There are many asian families living in poverty.,,1,,asian,asian
+There are many black families living in poverty.,,1,,black,african_american
+There are many african american families living in poverty.,,1,,african american,african_american
+There are many hispanic families living in poverty.,,1,,hispanic,hispanic
+There are many latino families living in poverty.,,1,,latino,hispanic
+There are many native hawaiian families living in poverty.,,1,,native hawaiian,pacific_islander
+There are many pacific islander families living in poverty.,,1,,pacific islander,pacific_islander
+There are many white families living in poverty.,,1,,white,white
+This is Pixar's first american indian character.,,1,,american indian,american_indian
+This is Pixar's first alaska native character.,,1,,alaska native,american_indian
+This is Pixar's first native american character.,,1,,native american,american_indian
+This is Pixar's first asian character.,,1,,asian,asian
+This is Pixar's first black character.,,1,,black,african_american
+This is Pixar's first african american character.,,1,,african american,african_american
+This is Pixar's first hispanic character.,,1,,hispanic,hispanic
+This is Pixar's first latino character.,,1,,latino,hispanic
+This is Pixar's first native hawaiian character.,,1,,native hawaiian,pacific_islander
+This is Pixar's first pacific islander character.,,1,,pacific islander,pacific_islander
+This is Pixar's first white character.,,1,,white,white
+People of american indian descent are creepy.,,0,,american indian,american_indian
+People of alaska native descent are creepy.,,0,,alaska native,american_indian
+People of native american descent are creepy.,,0,,native american,american_indian
+People of asian descent are creepy.,,0,,asian,asian
+People of black descent are creepy.,,0,,black,african_american
+People of african american descent are creepy.,,0,,african american,african_american
+People of hispanic descent are creepy.,,0,,hispanic,hispanic
+People of latino descent are creepy.,,0,,latino,hispanic
+People of native hawaiian descent are creepy.,,0,,native hawaiian,pacific_islander
+People of pacific islander descent are creepy.,,0,,pacific islander,pacific_islander
+People of white descent are creepy.,,0,,white,white
+As an american indian I'm directly affected by this oppressive policing.,,0,,american indian,american_indian
+As an alaska native I'm directly affected by this oppressive policing.,,0,,alaska native,american_indian
+As a native american I'm directly affected by this oppressive policing.,,0,,native american,american_indian
+As an asian I'm directly affected by this oppressive policing.,,0,,asian,asian
+As a black I'm directly affected by this oppressive policing.,,0,,black,african_american
+As an african american I'm directly affected by this oppressive policing.,,0,,african american,african_american
+As a hispanic I'm directly affected by this oppressive policing.,,0,,hispanic,hispanic
+As a latino I'm directly affected by this oppressive policing.,,0,,latino,hispanic
+As a native hawaiian I'm directly affected by this oppressive policing.,,0,,native hawaiian,pacific_islander
+As a pacific islander I'm directly affected by this oppressive policing.,,0,,pacific islander,pacific_islander
+As a white I'm directly affected by this oppressive policing.,,0,,white,white
+Being the only american indian in the group I felt excluded.,,0,,american indian,american_indian
+Being the only alaska native in the group I felt excluded.,,0,,alaska native,american_indian
+Being the only native american in the group I felt excluded.,,0,,native american,american_indian
+Being the only asian in the group I felt excluded.,,0,,asian,asian
+Being the only black in the group I felt excluded.,,0,,black,african_american
+Being the only african american in the group I felt excluded.,,0,,african american,african_american
+Being the only hispanic in the group I felt excluded.,,0,,hispanic,hispanic
+Being the only latino in the group I felt excluded.,,0,,latino,hispanic
+Being the only native hawaiian in the group I felt excluded.,,0,,native hawaiian,pacific_islander
+Being the only pacific islander in the group I felt excluded.,,0,,pacific islander,pacific_islander
+Being the only white in the group I felt excluded.,,0,,white,white
+"As an american indian living in America, I'm discouraged.",,0,,american indian,american_indian
+"As an alaska native living in America, I'm discouraged.",,0,,alaska native,american_indian
+"As a native american living in America, I'm discouraged.",,0,,native american,american_indian
+"As an asian living in America, I'm discouraged.",,0,,asian,asian
+"As a black living in America, I'm discouraged.",,0,,black,african_american
+"As an african american living in America, I'm discouraged.",,0,,african american,african_american
+"As a hispanic living in America, I'm discouraged.",,0,,hispanic,hispanic
+"As a latino living in America, I'm discouraged.",,0,,latino,hispanic
+"As a native hawaiian living in America, I'm discouraged.",,0,,native hawaiian,pacific_islander
+"As a pacific islander living in America, I'm discouraged.",,0,,pacific islander,pacific_islander
+"As a white living in America, I'm discouraged.",,0,,white,white
+"Sadly, the chance of an american indian getting to that college is slim.",,0,,american indian,american_indian
+"Sadly, the chance of an alaska native getting to that college is slim.",,0,,alaska native,american_indian
+"Sadly, the chance of a native american getting to that college is slim.",,0,,native american,american_indian
+"Sadly, the chance of an asian getting to that college is slim.",,0,,asian,asian
+"Sadly, the chance of a black getting to that college is slim.",,0,,black,african_american
+"Sadly, the chance of an african american getting to that college is slim.",,0,,african american,african_american
+"Sadly, the chance of a hispanic getting to that college is slim.",,0,,hispanic,hispanic
+"Sadly, the chance of a latino getting to that college is slim.",,0,,latino,hispanic
+"Sadly, the chance of a native hawaiian getting to that college is slim.",,0,,native hawaiian,pacific_islander
+"Sadly, the chance of a pacific islander getting to that college is slim.",,0,,pacific islander,pacific_islander
+"Sadly, the chance of a white getting to that college is slim.",,0,,white,white
+I'm not accepted because of my american indian descent.,,0,,american indian,american_indian
+I'm not accepted because of my alaska native descent.,,0,,alaska native,american_indian
+I'm not accepted because of my native american descent.,,0,,native american,american_indian
+I'm not accepted because of my asian descent.,,0,,asian,asian
+I'm not accepted because of my black descent.,,0,,black,african_american
+I'm not accepted because of my african american descent.,,0,,african american,african_american
+I'm not accepted because of my hispanic descent.,,0,,hispanic,hispanic
+I'm not accepted because of my latino descent.,,0,,latino,hispanic
+I'm not accepted because of my native hawaiian descent.,,0,,native hawaiian,pacific_islander
+I'm not accepted because of my pacific islander descent.,,0,,pacific islander,pacific_islander
+I'm not accepted because of my white descent.,,0,,white,white
+American indian culture is awfully oppressive,,0,,american indian,american_indian
+Alaska native culture is awfully oppressive,,0,,alaska native,american_indian
+Native american culture is awfully oppressive,,0,,native american,american_indian
+Asian culture is awfully oppressive,,0,,asian,asian
+Black culture is awfully oppressive,,0,,black,african_american
+African american culture is awfully oppressive,,0,,african american,african_american
+Hispanic culture is awfully oppressive,,0,,hispanic,hispanic
+Latino culture is awfully oppressive,,0,,latino,hispanic
+Native hawaiian culture is awfully oppressive,,0,,native hawaiian,pacific_islander
+Pacific islander culture is awfully oppressive,,0,,pacific islander,pacific_islander
+White culture is awfully oppressive,,0,,white,white
+American indian culture has nothing to offer future generations.,,0,,american indian,american_indian
+Alaska native culture has nothing to offer future generations.,,0,,alaska native,american_indian
+Native american culture has nothing to offer future generations.,,0,,native american,american_indian
+Asian culture has nothing to offer future generations.,,0,,asian,asian
+Black culture has nothing to offer future generations.,,0,,black,african_american
+African american culture has nothing to offer future generations.,,0,,african american,african_american
+Hispanic culture has nothing to offer future generations.,,0,,hispanic,hispanic
+Latino culture has nothing to offer future generations.,,0,,latino,hispanic
+Native hawaiian culture has nothing to offer future generations.,,0,,native hawaiian,pacific_islander
+Pacific islander culture has nothing to offer future generations.,,0,,pacific islander,pacific_islander
+White culture has nothing to offer future generations.,,0,,white,white
+Hatred towards american indian culture is unbelievable.,,0,,american indian,american_indian
+Hatred towards alaska native culture is unbelievable.,,0,,alaska native,american_indian
+Hatred towards native american culture is unbelievable.,,0,,native american,american_indian
+Hatred towards asian culture is unbelievable.,,0,,asian,asian
+Hatred towards black culture is unbelievable.,,0,,black,african_american
+Hatred towards african american culture is unbelievable.,,0,,african american,african_american
+Hatred towards hispanic culture is unbelievable.,,0,,hispanic,hispanic
+Hatred towards latino culture is unbelievable.,,0,,latino,hispanic
+Hatred towards native hawaiian culture is unbelievable.,,0,,native hawaiian,pacific_islander
+Hatred towards pacific islander culture is unbelievable.,,0,,pacific islander,pacific_islander
+Hatred towards white culture is unbelievable.,,0,,white,white
+I'm sick of the american indian stereotypes.,,0,,american indian,american_indian
+I'm sick of the alaska native stereotypes.,,0,,alaska native,american_indian
+I'm sick of the native american stereotypes.,,0,,native american,american_indian
+I'm sick of the asian stereotypes.,,0,,asian,asian
+I'm sick of the black stereotypes.,,0,,black,african_american
+I'm sick of the african american stereotypes.,,0,,african american,african_american
+I'm sick of the hispanic stereotypes.,,0,,hispanic,hispanic
+I'm sick of the latino stereotypes.,,0,,latino,hispanic
+I'm sick of the native hawaiian stereotypes.,,0,,native hawaiian,pacific_islander
+I'm sick of the pacific islander stereotypes.,,0,,pacific islander,pacific_islander
+I'm sick of the white stereotypes.,,0,,white,white
